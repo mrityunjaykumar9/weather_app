@@ -12,7 +12,7 @@ function Footer() {
     <>
       <footer className="footer">
         <a
-          href="https://github.com/mrityunjaykumar9"
+          href="https://github.com/mrityunjaykumar9/weather_app"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
@@ -20,7 +20,7 @@ function Footer() {
           <i className="fa-brands fa-github"></i> <span>GitHub</span>
         </a>
         <a
-          href="https://github.com/mrityunjaykumar9"
+          href="https://github.com/mrityunjaykumar9/weather_app"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
@@ -28,7 +28,7 @@ function Footer() {
           <i className ="fa-solid fa-code-fork"></i> <span>Fork</span>
         </a>
         <a
-          href="https://github.com/mrityunjaykumar9"
+          href="https://github.com/mrityunjaykumar9/weather_app"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}

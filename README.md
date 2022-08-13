@@ -1,6 +1,6 @@
 <div align="center">
     <b><a href="https://hweather.netlify.app" target="_blank">
-    <img src="./banner.png" />
+    <img src="./preview.png" />
     </a></b>
 </div>
 
